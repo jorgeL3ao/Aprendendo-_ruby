@@ -1,7 +1,7 @@
 =begin
 Strings são cadeias de caracteres, que podemos criar delimitando esses caracteres com aspas simples ou duplas, como
-por exemplo "azul"ou 'azul', podendo utilizar simples ou duplas dentro da outra como "o céu é 'azul'"ou 'o céu é "azul"'e
-"escapar"utilizando o caracter \:
+por exemplo "azul" ou 'azul', podendo utilizar simples ou duplas dentro da outra como "o céu é 'azul'"ou 'o céu é "azul"'e
+"escapar" utilizando o caracter \:
 =end
 
 puts "o céu é 'azul'"
@@ -10,7 +10,7 @@ puts 'o céu é "azul"'
 puts 'o céu é \'azul\''
 
 =begin
-Também podemos criar Strings longas, com várias linhas, usando o conceito de heredoc, onde indicamos um terminador
+  Também podemos criar Strings longas, com várias linhas, usando o conceito de heredoc, onde indicamos um terminador
 logo após o sinal de atribuição (igual) e dois sinais de menor (<<):
 =end
 

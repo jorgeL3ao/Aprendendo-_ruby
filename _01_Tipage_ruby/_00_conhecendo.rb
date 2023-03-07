@@ -1,5 +1,5 @@
 # Ruby foi desenvolvida para ser uma linguagem produtica e divertida
-# Ou seja o sofware se aproxima 
+# Ou seja o sofware se aproxima da linguagem de alto níve
 # Ser descritiva
 # Permite que possamos entender de forma simples 
 

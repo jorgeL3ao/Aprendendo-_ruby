@@ -6,6 +6,9 @@
 # Expoente (**)
 
 
-
+=begin
+Relacionais
+    
+=end
 
 

@@ -14,7 +14,7 @@ puts v.class
 puts "-=-=-=-=-="
 
 # Fixnum 
-# Fixnums são números inteiros de 62 bits de comprimento (ou 1 word do processador menos 2 bits)
+# Integer são números inteiros de 62 bits de comprimento (ou 1 word do processador menos 2 bits)
 # Dica -> Todo objeto em Ruby pode ser identificado pelo seu object_id
 
 puts "Exemplo 2 com object_id "
@@ -23,7 +23,7 @@ puts n.object_id
 puts "-=-=-=-=-="
 
 # puts n.methods -> Mostra todos os metodos possíveis para um variavel numerica 
-puts "Usando um metódo"
+puts "Exemplo Usando um metódo"
 n = 2 
 puts n.odd? 
 puts "-=-=-=-=-="
@@ -32,6 +32,7 @@ puts "-=-=-=-=-="
   Como vimos acima, os Fixnums tem limites nos seus valores, dependendo da plataforma. Os Bignums são os números
 inteiros que excedem o limite imposto pelos Fixnums, ou seja, em um computador de 64 bits:
 =end
+
 puts "Observe o Object_id"
 teste = 2**62 
 teste1 = 2**62 

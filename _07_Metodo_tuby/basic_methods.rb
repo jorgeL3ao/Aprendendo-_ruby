@@ -23,3 +23,11 @@ puts (v1)
 puts (v2)
 puts (v3)
 puts (v4)
+
+
+
+def mostra(a:, b:)
+    puts "a é igual #{a}, b é igual #{b}"
+end
+
+mostra(a: 1, b: 2)

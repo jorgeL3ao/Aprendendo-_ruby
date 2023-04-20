@@ -4,7 +4,7 @@ por exemplo "azul" ou 'azul', podendo utilizar simples ou duplas dentro da outra
 "escapar" utilizando o caracter \:
 =end
 
-puts "o céu é 'azul'"
+puts "o céu é 'azul' "
 puts "o céu é \"azul\""
 puts 'o céu é "azul"'
 puts 'o céu é \'azul\''

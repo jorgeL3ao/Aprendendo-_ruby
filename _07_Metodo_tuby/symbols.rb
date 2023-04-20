@@ -1,0 +1,10 @@
+puts "Jorge".object_id
+puts "Jorge".object_id
+puts "Jorge".object_id
+puts "Jorge".object_id
+puts "Jorge".object_id
+puts "-=-=-=-=--=-=-"
+puts :jackson.object_id
+puts :jackson.object_id
+puts :jackson.object_id
+puts :jackson.object_id
